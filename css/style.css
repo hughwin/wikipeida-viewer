@@ -1,0 +1,41 @@
+@import 'https://fonts.googleapis.com/css?family=Roboto';
+
+html {
+  font-family: font-family: 'Roboto', sans-serif !important;
+}
+
+.fa-wikipedia-w {
+  font-size: 200px;
+  padding-top: 40px;
+  text-decoration:none;
+}
+
+.fa-wikipedia-w:hover {
+  color: grey; 
+}
+.fa-wikipedia-w:visited {
+  text-decoration:none; 
+}
+.fa-wikipedia-w:link {
+  text-decoration:none; 
+}
+
+.input[type=text] {
+  width: 130px;
+}
+.result-card { 
+  padding: 15px; 
+  box-shadow: 10px 10px 45px 0px rgba(0,0,0,0.75);
+  border-radius:15px; 
+  border:1px; 
+  margin-bottom: 15px;
+  margin-top: 15px; 
+  color:black !important;
+  
+}
+a:visited {
+  text-decoration:none; 
+}
+a:link {
+  text-decoration:none; 
+}
